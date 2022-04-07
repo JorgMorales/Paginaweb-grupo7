@@ -5,4 +5,4 @@ La presente página es desarrollada por el equipo de trabajo No. 7 perteneciente
 Guía de navegación para la página del equipo
 Dentro de la página podrá encontrarse contenido enriquecedor y estable clasificado bajo estos espacios:
 
-*índice de búsqueda y redirección automática 
+**índice de búsqueda y redirección automática 
