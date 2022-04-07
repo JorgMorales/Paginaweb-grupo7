@@ -16,3 +16,4 @@ Dentro de la página podrá encontrarse contenido enriquecedor y estable clasifi
     - Evolución y generaciones de las computadoras
     - Predicciones y camino futuro de la informática
     - Inteligencia aritificial "Un pincelazo y disponibilidad parcial del tema"
+@LuisTale04/ Qué tal te parece la estructura?
