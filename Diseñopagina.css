@@ -1,0 +1,111 @@
+.encabezado {
+    clear:both;
+    float:left;
+    width:99%;   /* Queremos que vaya de un lado al otro de la plantilla */
+    padding: 5px;
+}
+/* estilo del pie de la página */
+.pie {
+    clear:both;
+    float:left;
+    width:99%;
+    padding: 5px;
+}
+.envoltura {
+    position:relative;  /* Esto arregla un bug en IE7 */
+    clear:both;
+    float:left;
+    width:100%;         /* el ancho de toda la página */
+    overflow:hidden;        
+}
+
+.col1,
+.col2
+{
+    float: left;
+    position: relative;
+    padding: 5px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+/* 2 columnas - configuración para el menú izquierdo */
+.envoltura .columnas {
+    right:85%;          
+    margin-top: 20px;
+}
+.envoltura .col1 {
+    width:83%;          /* el ancho de la columna derecha */
+    left:100%;          
+    background:rgb(0, 160, 112);
+    padding: 5px;
+    min-height: 300px;
+}
+.envoltura .col2 {
+    width:13%;          /* el ancho de la columna izquierda */
+    left:2%;            
+    background:rgb(146, 71, 71);
+}
+/* Estilo de elemento body */
+body {
+    margin:0;
+    padding:0;
+    border:0;           
+    width:100%;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/304/175/non_2x/modern-circuit-board-technology-background-security-and-electronic-concept-vector.jpg);  
+    font: size 2000px;
+    font-family: Arial;
+}
+/* Estilo para el encabezado */
+.encabezado {
+    clear:both;
+    float:left;
+    width:99%;   /* Queremos que vaya de un lado al otro de la plantilla */
+    padding: 5px;
+}
+.envoltura {
+    position:relative;  /* Esto arregla un bug en IE7 */
+    clear:both;
+    float:left;
+    width:100%;         /* el ancho de toda la página */
+    overflow:hidden;        
+}
+/* configuración en común de las columnas */
+.columnas {
+    float:left;
+    width:100%;
+    position:relative;
+}
+.col1,
+.col2
+{
+    float: left;
+    position: relative;
+    padding: 5px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+/* 2 columnas - configuración para el menú izquierdo */
+.envoltura .columnas {
+    right:85%;          
+    margin-top: 20px;
+}
+.envoltura .col1 {
+    width:79%;          /* el ancho de la columna derecha */
+    left:103%;          
+    background:rgba(117, 158, 235, 0.977);
+    padding: 5px;
+    min-height: px;
+}
+.envoltura .col2 {
+    width:16%;          /* el ancho de la columna izquierda */
+    left:6%;     
+    height: 500px;       
+    background:#a7c4e1;
+}
+/* estilo del pie de la página */
+.pie {
+    clear:both;
+    float:left;
+    width:99%;
+    padding: 5px;
+}
