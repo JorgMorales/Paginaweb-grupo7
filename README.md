@@ -33,3 +33,8 @@ Dentro de este apartado informativo podremos encontrar puntos cualitativos los c
 ![Imagen de la rueda](https://historiaybiografias.com/archivos_varios5/rueda2.jpg)
 
 #### ¿Qué es la informática?
+
+Dentro del presente espacio podrás encontrar dicha información relacionada a qué es la informática en sus procesos, área de desarrollo y capacidad misma.
+Igualmente, podremos observar relación entre los temas, nuestro contexto y la importancia que esto tiene.
+
+En las ramas de la ciencia,  hay una que se encarga de estudiar la administración de métodos, técnicas y procesos con el fin de almacenar, procesar y transmitir información y datos en forma digital. Además, dicho término ha sido utilizado y modelado a lo largo de los años para referirse específicamente al crecimiento y evolución exponencial de una sociedad relacionada y adaptada al cambio, es decir, es igualmente como punto y rama de conocimiento orientada a un ambiente y contexto electrónico estable, ya que se define como la ciencia estructurada y vinculada al desarrollo computacional lo cual es llamada como informática.
