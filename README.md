@@ -18,7 +18,7 @@ Dentro de la página podrá encontrarse contenido enriquecedor y estable clasifi
     - Inteligencia artificial y su lugar en la actualidad.
     - Predicciones informáticas
 
-# Sección de Videos
+# Sección de contenido audiovisual
 Aquí se van a encontrar todos los videos relacionados de lo que quieres saber sobre la informática, la evolución y las generaciones de las computadoras, el hombre y la tecnología, entre otros...
 
 Además, con la presencia de estas herramientas de apoyo e información podrás entender lo importante que es la tecnología en la actualidad.
@@ -31,3 +31,5 @@ Dentro de estos videos podrán desarrollarse un sinnúmero de temas relacionados
 Dentro de este apartado informativo podremos encontrar puntos cualitativos los cuales nos ayuden a poder conocer e identificar la manera en la que la informática renace y se establece dentro de la actualidad ayudándo y generando un avance periódico de gran beneficio para la sociedad actual y el humano en general, todo esto, sintetizado y estructurado por medio de información relevante pero breve.
 
 ![Imagen de la rueda](https://historiaybiografias.com/archivos_varios5/rueda2.jpg)
+
+#### ¿Qué es la informática?
