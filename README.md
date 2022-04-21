@@ -26,4 +26,6 @@ Además, con la presencia de estas herramientas de apoyo e información podrás 
 Dentro de estos videos podrán desarrollarse un sinnúmero de temas relacionados a la información expuesta pero de manera breve, objetiva y entendible, dichos videos tratarán de generar un espacio capaz de hacer sentir al usuario o lector en un ambiente estable y de armonía informativa.
 
 # Contenido a encontrar
-#### Historia de la informática 
+#### Origen de la informática 
+Dentro de este apartado informativo podremos encontrar puntos cualitativos los cuales nos ayuden a poder conocer e identificar la manera en la que la informática renace y se establece dentro de la actualidad ayudándo y generando un avance periódico de gran beneficio para la sociedad actual y el humano en general, todo esto, sintetizado y estructurado por medio de información relevante pero breve.
+
