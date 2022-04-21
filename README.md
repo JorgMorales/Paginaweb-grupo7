@@ -8,14 +8,15 @@ Dentro de la página podrá encontrarse contenido enriquecedor y estable clasifi
 1. contenido de la página
     - índice de búsqueda y redirección a elementos de la página
     - Inicio de información
-    - Historia de la informática
+    - Origen de la informática
     - Contenido audiovisual
-    - ¿Qué es la informática y cuál es su relevancia?
-    - El hombre y la tecnología
-    - Computadora Eniac y su influencia en la historia informática
+    - ¿Qué es la informática?
+    - ¿Cuál es su relevancia?
+    - Primer acercamiento del hombre y la tecnología
+    - Computadora Eniac y como se relaciona a la tecnología actual
     - Evolución y generaciones de las computadoras
-    - Predicciones y camino futuro de la informática
-    - Inteligencia aritificial "Un pincelazo y disponibilidad parcial del tema"
+    - Inteligencia artificial y su lugar en la actualidad.
+    - Predicciones informáticas
 
 # Sección de Videos
 Aquí se van a encontrar todos los videos relacionados de lo que quieres saber sobre la informática, la evolución y las generaciones de las computadoras, el hombre y la tecnología, entre otros...
@@ -23,3 +24,6 @@ Aquí se van a encontrar todos los videos relacionados de lo que quieres saber s
 Además, con la presencia de estas herramientas de apoyo e información podrás entender lo importante que es la tecnología en la actualidad.
 
 Dentro de estos videos podrán desarrollarse un sinnúmero de temas relacionados a la información expuesta pero de manera breve, objetiva y entendible, dichos videos tratarán de generar un espacio capaz de hacer sentir al usuario o lector en un ambiente estable y de armonía informativa.
+
+# Contenido a encontrar
+#### Historia de la informática 
