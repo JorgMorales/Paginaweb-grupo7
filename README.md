@@ -30,3 +30,4 @@ Dentro de estos videos podrán desarrollarse un sinnúmero de temas relacionados
 
 Dentro de este apartado informativo podremos encontrar puntos cualitativos los cuales nos ayuden a poder conocer e identificar la manera en la que la informática renace y se establece dentro de la actualidad ayudándo y generando un avance periódico de gran beneficio para la sociedad actual y el humano en general, todo esto, sintetizado y estructurado por medio de información relevante pero breve.
 
+![Imagen de la rueda](https://historiaybiografias.com/archivos_varios5/rueda2.jpg)
