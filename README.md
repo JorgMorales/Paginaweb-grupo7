@@ -17,7 +17,9 @@ Dentro de la página podrá encontrarse contenido enriquecedor y estable clasifi
     - Predicciones y camino futuro de la informática
     - Inteligencia aritificial "Un pincelazo y disponibilidad parcial del tema"
 
-## Videos
+# Sección de Videos
 Aquí se van a encontrar todos los videos relacionados de lo que quieres saber sobre la informática, la evolución y las generaciones de las computadoras, el hombre y la tecnología, entre otros...
 
 Además, con la presencia de estas herramientas de apoyo e información podrás entender lo importante que es la tecnología en la actualidad.
+
+Dentro de estos videos podrán desarrollarse un sinnúmero de temas relacionados a la información expuesta pero de manera breve, objetiva y entendible, dichos videos tratarán de generar un espacio capaz de hacer sentir al usuario o lector en un ambiente estable y de armonía informativa.
