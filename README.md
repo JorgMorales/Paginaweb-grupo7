@@ -83,5 +83,4 @@ Cada pensamiento es un mundo distinto, por lo cual, cada uno de los integrantes 
 
 # Datos Personales de los integrantes.
 
-* Jorge Luis Morales Huertas
-* carné | 1586322
+* Jorge Luis Morales Huertas | carné: 1586322
