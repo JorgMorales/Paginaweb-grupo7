@@ -74,3 +74,9 @@ Este proyecto ambicioso se logró impulsar hasta la década de los 90, en donde 
 teniendo varios inventos que hicieron posible la creación de motores de inteligencia artificial. 
 
 ![InteligenciaArtificial](https://blog.caixabank.es/blogcaixabank/wp-content/uploads/sites/4/2021/07/libro-ia-2-mini-783x412.jpg)
+
+#### Predicciones
+
+Cada pensamiento es un mundo distinto, por lo cual, cada uno de los integrantes del grupo da a conocer las perspectivas que tiene acerca de la tecnología en tiempos futuros estructurandose en diferentes puntos de vista y temas de abordamiento. 
+
+![Pensamiento] (https://ilab.net/wp-content/uploads/2020/03/pensamiento-critico-ilab-01.png)
