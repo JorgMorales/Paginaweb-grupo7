@@ -39,7 +39,7 @@ Igualmente, podremos observar relación entre los temas, nuestro contexto y la i
 
 En las ramas de la ciencia,  hay una que se encarga de estudiar la administración de métodos, técnicas y procesos con el fin de almacenar, procesar y transmitir información y datos en forma digital. Además, dicho término ha sido utilizado y modelado a lo largo de los años para referirse específicamente al crecimiento y evolución exponencial de una sociedad relacionada y adaptada al cambio, es decir, es igualmente como punto y rama de conocimiento orientada a un ambiente y contexto electrónico estable, ya que se define como la ciencia estructurada y vinculada al desarrollo computacional lo cual es llamada como informática.
 
-![Informática](https://historiaybiografias.com/archivos_varios5/rueda2.jpg)
+![Informática](https://swall.teahub.io/photos/small/209-2091137_anime-circuit-board.jpg)
 
 
 #### ¿Cuál es la relevancia de la informática?
@@ -54,3 +54,9 @@ Sin embargo, en la actualidad, esta no solo facilita la comunicación entre las 
 En este apartado el lector podrá encontrarse con diversos apartados ordenados de forma cronologica acerca de la evolución de la informática a traves de los años, hasta llegar a lo que conocemos hoy por hoy; comenzando por la edad antigua en los años 3,000 a.C hasta el año 500 d.C. hasta llegar a la era post-industrial, en el cual se incluyen los siglos XX y XXI. 
 <br>
 ![Evolucion](https://sobrehistoria.com//wp-content/uploads/2011/09/edad-media.jpg)
+
+#### Computadora Eniac y las generaciones de las computadoras
+
+Este apartado informativo da a conocer la evolución de las computadoras, en función historica de como fué cambiando conforme a las necesidades a cubrir. Además se proporciona una breve información acerca de la computaora Eniac, que es considerada la primera computadora electronica con fines no comerciales, que permitiría el desglose de las futuras generaciones de hardware y software en total armonía funcional.
+
+![Eniac](https://www.caracteristicas.co/wp-content/uploads/2019/05/historia-de-la-computadora-eniac-e1558287206494.jpg)
