@@ -47,4 +47,5 @@ En las ramas de la ciencia,  hay una que se encarga de estudiar la administraci�
 #### El primer acercamiento del hombre con la tecnología
 
 En este apartado el lector podrá encontrarse con diversos apartados ordenados de forma cronologica acerca de la evolución de la informática a traves de los años, hasta llegar a lo que conocemos hoy por hoy; comenzando por la edad antigua en los años 3,000 a.C hasta el año 500 d.C. hasta llegar a la era post-industrial, en el cual se incluyen los siglos XX y XXI. 
+<br>
 ![Evolucion](https://sobrehistoria.com//wp-content/uploads/2011/09/edad-media.jpg)
