@@ -85,15 +85,5 @@ Cada pensamiento es un mundo distinto, por lo cual, cada uno de los integrantes 
 
 # Datos Personales de los integrantes.
 
-<<<<<<< HEAD
 * Jorge Luis Morales Huertas
 * carné | 1586322
-
-=======
-- Jorge Luis Morales Huertas | carné: 1586322
-- Luis Alexander Talé de León| carné: 1507722
-<<<<<<< HEAD
->>>>>>> 1f4306df81ad37c19e2d5a65f922dd234a918518
-=======
-- Paolo Emanuel Cano Bolaños | carné: 1578022
->>>>>>> 0f06d1cf27d03376a36c8cb7d6f99c1220592fb8
