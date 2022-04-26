@@ -51,6 +51,17 @@ La informática diseña y desarrolla gran cantidad de aplicaciones y softwares q
 Sin embargo, en la actualidad, esta no solo facilita la comunicación entre las personas, sino que también permite la relación de un sinfín de tareas, entre ellas, proveer de información a través de sitios web, blogs, entre otros; la informática está presente también en la aeronáutica, en el sistema bancario, en la actividad agrícola, en la navegación y en el transporte urbano, en la vigilancia y la seguridad de los individuos, en la industria y en el empresarial.
 
 ![Relevancia](https://www.cloudmasters.es/wp-content/uploads/2021/10/seguridad.jpeg)
+#### El primer acercamiento del hombre con la tecnología
+
+En este apartado el lector podrá encontrarse con diversos apartados ordenados de forma cronologica acerca de la evolución de la informática a traves de los años, hasta llegar a lo que conocemos hoy por hoy; comenzando por la edad antigua en los años 3,000 a.C hasta el año 500 d.C. hasta llegar a la era post-industrial, en el cual se incluyen los siglos XX y XXI. 
+<br>
+![Evolucion](https://sobrehistoria.com//wp-content/uploads/2011/09/edad-media.jpg)
+
+#### Computadora Eniac y las generaciones de las computadoras
+
+Este apartado informativo da a conocer la evolución de las computadoras, en función historica de como fué cambiando conforme a las necesidades a cubrir. Además se proporciona una breve información acerca de la computaora Eniac, que es considerada la primera computadora electronica con fines no comerciales, que permitiría el desglose de las futuras generaciones de hardware y software en total armonía funcional.
+
+![Eniac](https://www.caracteristicas.co/wp-content/uploads/2019/05/historia-de-la-computadora-eniac-e1558287206494.jpg)
 
 #### Inteligencia Artificial (IA)
 
@@ -63,14 +74,3 @@ Este proyecto ambicioso se logró impulsar hasta la década de los 90, en donde 
 teniendo varios inventos que hicieron posible la creación de motores de inteligencia artificial. 
 
 ![InteligenciaArtificial](https://blog.caixabank.es/blogcaixabank/wp-content/uploads/sites/4/2021/07/libro-ia-2-mini-783x412.jpg)
-#### El primer acercamiento del hombre con la tecnología
-
-En este apartado el lector podrá encontrarse con diversos apartados ordenados de forma cronologica acerca de la evolución de la informática a traves de los años, hasta llegar a lo que conocemos hoy por hoy; comenzando por la edad antigua en los años 3,000 a.C hasta el año 500 d.C. hasta llegar a la era post-industrial, en el cual se incluyen los siglos XX y XXI. 
-<br>
-![Evolucion](https://sobrehistoria.com//wp-content/uploads/2011/09/edad-media.jpg)
-
-#### Computadora Eniac y las generaciones de las computadoras
-
-Este apartado informativo da a conocer la evolución de las computadoras, en función historica de como fué cambiando conforme a las necesidades a cubrir. Además se proporciona una breve información acerca de la computaora Eniac, que es considerada la primera computadora electronica con fines no comerciales, que permitiría el desglose de las futuras generaciones de hardware y software en total armonía funcional.
-
-![Eniac](https://www.caracteristicas.co/wp-content/uploads/2019/05/historia-de-la-computadora-eniac-e1558287206494.jpg)
