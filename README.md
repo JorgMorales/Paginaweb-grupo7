@@ -88,3 +88,4 @@ Cada pensamiento es un mundo distinto, por lo cual, cada uno de los integrantes 
 - Jorge Luis Morales Huertas | carné: 1586322
 - Luis Alexander Talé de León| carné: 1507722
 - Paolo Emanuel Cano Bolaños | carné: 1578022
+- Estuardo Alexander Gutiérrez Tzunún | 1605922
