@@ -52,7 +52,7 @@ Sin embargo, en la actualidad, esta no solo facilita la comunicación entre las 
 
 ![Relevancia](https://www.cloudmasters.es/wp-content/uploads/2021/10/seguridad.jpeg)
 
-#### Inteligencia Artificial
+#### Inteligencia Artificial (IA)
 
 Este apartado se encuentra la información sobre la inteligencia artificial que hace posible que las máquinas y computadoras aprendan, amplíen y se ajusten a nueva información o comportamientos.
 
@@ -62,6 +62,7 @@ los tres científicos generaron un a hipótesis, la cual estipulaba que en unos 
 Este proyecto ambicioso se logró impulsar hasta la década de los 90, en donde ya estaba precedida por otros inventos, fue conocida como la época de oro para la IA,
 teniendo varios inventos que hicieron posible la creación de motores de inteligencia artificial. 
 
+![InteligenciaArtificial](https://blog.caixabank.es/blogcaixabank/wp-content/uploads/sites/4/2021/07/libro-ia-2-mini-783x412.jpg)
 #### El primer acercamiento del hombre con la tecnología
 
 En este apartado el lector podrá encontrarse con diversos apartados ordenados de forma cronologica acerca de la evolución de la informática a traves de los años, hasta llegar a lo que conocemos hoy por hoy; comenzando por la edad antigua en los años 3,000 a.C hasta el año 500 d.C. hasta llegar a la era post-industrial, en el cual se incluyen los siglos XX y XXI. 
