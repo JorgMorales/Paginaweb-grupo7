@@ -81,6 +81,10 @@ Cada pensamiento es un mundo distinto, por lo cual, cada uno de los integrantes 
 
 ![Pensamiento](https://d1kw0nx8pk9xzh.cloudfront.net/0001/2c808822/resize-crop(w=1200;h=627):sharpen(level=0):output(format=jpeg)/up/dt/2019/05/Pensamiento-critico.jpg)
 
+# Espacio para verificación de información y desarrollo de lo expuesto
+https://docs.google.com/document/d/1THKR1VNAyyvPdaJrR8Wadx2ZaTvgSvPH4US9Zw1UbNY/edit
+https://docs.google.com/presentation/d/1ySp0iI4w7PKMaUoiQZNI6SiazneYGof-FwSy_pMYnrk/edit#slide=id.p
+
 # Datos Personales de los integrantes.
 
 - Jorge Luis Morales Huertas | carné: 1586322
