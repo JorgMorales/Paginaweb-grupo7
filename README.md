@@ -49,6 +49,8 @@ Al introducirte en el presente apartado podrás encontrar información variada y
 La informática diseña y desarrolla gran cantidad de aplicaciones y softwares que los individuos usan a diario y que mejoran notablemente su calidad de vida, ya que permiten reducir distancias físicas, ahorrar tiempo, simplificar procesos.
 
 Sin embargo, en la actualidad, esta no solo facilita la comunicación entre las personas, sino que también permite la relación de un sinfín de tareas, entre ellas, proveer de información a través de sitios web, blogs, entre otros; la informática está presente también en la aeronáutica, en el sistema bancario, en la actividad agrícola, en la navegación y en el transporte urbano, en la vigilancia y la seguridad de los individuos, en la industria y en el empresarial.
+
+![Relevancia](https://www.cloudmasters.es/wp-content/uploads/2021/10/seguridad.jpeg)
 #### El primer acercamiento del hombre con la tecnología
 
 En este apartado el lector podrá encontrarse con diversos apartados ordenados de forma cronologica acerca de la evolución de la informática a traves de los años, hasta llegar a lo que conocemos hoy por hoy; comenzando por la edad antigua en los años 3,000 a.C hasta el año 500 d.C. hasta llegar a la era post-industrial, en el cual se incluyen los siglos XX y XXI. 
