@@ -79,7 +79,11 @@ teniendo varios inventos que hicieron posible la creación de motores de intelig
 
 Cada pensamiento es un mundo distinto, por lo cual, cada uno de los integrantes del grupo da a conocer las perspectivas que tiene acerca de la tecnología en tiempos futuros estructurandose en diferentes puntos de vista y temas de abordamiento. 
 
+<<<<<<< HEAD
 ![Pensamiento] (https://d1kw0nx8pk9xzh.cloudfront.net/0001/2c808822/resize-crop(w=1200;h=627):sharpen(level=0):output(format=jpeg)/up/dt/2019/05/Pensamiento-critico.jpg)
 
 > Jorge Luis Morales Huertas
 > carné | 1586322
+=======
+![Pensamiento](https://d1kw0nx8pk9xzh.cloudfront.net/0001/2c808822/resize-crop(w=1200;h=627):sharpen(level=0):output(format=jpeg)/up/dt/2019/05/Pensamiento-critico.jpg)
+>>>>>>> f61bd24336d1da44f65f46598cc68dd62990cab7
