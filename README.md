@@ -85,4 +85,6 @@ Cada pensamiento es un mundo distinto, por lo cual, cada uno de los integrantes 
 
 > Jorge Luis Morales Huertas
 > carné | 1586322
-
+<br>
+> Abel Alexander de León Lima
+> carné | 1572322
