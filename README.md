@@ -85,5 +85,4 @@ Cada pensamiento es un mundo distinto, por lo cual, cada uno de los integrantes 
 
 * Jorge Luis Morales Huertas
 * carné | 1586322
-* Estuardo Alexander Gutiérrez Tzunún
-* Carné | 1605922
+
