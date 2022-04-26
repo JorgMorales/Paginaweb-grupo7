@@ -51,6 +51,17 @@ La informática diseña y desarrolla gran cantidad de aplicaciones y softwares q
 Sin embargo, en la actualidad, esta no solo facilita la comunicación entre las personas, sino que también permite la relación de un sinfín de tareas, entre ellas, proveer de información a través de sitios web, blogs, entre otros; la informática está presente también en la aeronáutica, en el sistema bancario, en la actividad agrícola, en la navegación y en el transporte urbano, en la vigilancia y la seguridad de los individuos, en la industria y en el empresarial.
 
 ![Relevancia](https://www.cloudmasters.es/wp-content/uploads/2021/10/seguridad.jpeg)
+
+#### Inteligencia Artificial
+
+Este apartado se encuentra la información sobre la inteligencia artificial que hace posible que las máquinas y computadoras aprendan, amplíen y se ajusten a nueva información o comportamientos.
+
+En 1956 nace el término inteligencia artificial gracias al informático John McCarthy y a la ayuda de Marvin Minsky y Claude Shannon. Este concepto designado en la conferencia de Dartmouth definía la palabra como la ciencia e ingeniería de “hacer máquinas inteligentes''.
+
+los tres científicos generaron un a hipótesis, la cual estipulaba que en unos años la tecnología y a la IA conviviría más con los humanos, a tal punto de ser algo indispensable, pero no fue así, el desarrollo que este proyecto tardó mucho más tiempo del que ellos esperaban.
+Este proyecto ambicioso se logró impulsar hasta la década de los 90, en donde ya estaba precedida por otros inventos, fue conocida como la época de oro para la IA,
+teniendo varios inventos que hicieron posible la creación de motores de inteligencia artificial. 
+
 #### El primer acercamiento del hombre con la tecnología
 
 En este apartado el lector podrá encontrarse con diversos apartados ordenados de forma cronologica acerca de la evolución de la informática a traves de los años, hasta llegar a lo que conocemos hoy por hoy; comenzando por la edad antigua en los años 3,000 a.C hasta el año 500 d.C. hasta llegar a la era post-industrial, en el cual se incluyen los siglos XX y XXI. 
