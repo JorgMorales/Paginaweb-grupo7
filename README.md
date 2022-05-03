@@ -1,25 +1,24 @@
 # Paginaweb grupo7
-
 La presente página es desarrollada por el equipo de trabajo No. 7 perteneciente a la clase de introducción a la ingeniería en informática y sistemas con el fin de establecer un espacio ameno e informativo donde el usuario podrá encontrar información importante relacionada a la historia y relevancia en general que la informática establece en nuestro día a día
+
 
 Guía de navegación para la página del equipo
 Dentro de la página podrá encontrarse contenido enriquecedor y estable clasificado bajo estos espacios:
 
 1. contenido de la página
-   - índice de búsqueda y redirección a elementos de la página
-   - Inicio de información
-   - Origen de la informática
-   - Contenido audiovisual
-   - ¿Qué es la informática?
-   - ¿Cuál es su relevancia?
-   - Primer acercamiento del hombre y la tecnología
-   - Computadora Eniac y como se relaciona a la tecnología actual
-   - Evolución y generaciones de las computadoras
-   - Inteligencia artificial y su lugar en la actualidad.
-   - Predicciones informáticas
+    - índice de búsqueda y redirección a elementos de la página
+    - Inicio de información
+    - Origen de la informática
+    - Contenido audiovisual
+    - ¿Qué es la informática?
+    - ¿Cuál es su relevancia?
+    - Primer acercamiento del hombre y la tecnología
+    - Computadora Eniac y como se relaciona a la tecnología actual
+    - Evolución y generaciones de las computadoras
+    - Inteligencia artificial y su lugar en la actualidad.
+    - Predicciones informáticas
 
 # Sección de contenido audiovisual
-
 Aquí se van a encontrar todos los videos relacionados de lo que quieres saber sobre la informática, la evolución y las generaciones de las computadoras, el hombre y la tecnología, entre otros...
 
 Además, con la presencia de estas herramientas de apoyo e información podrás entender lo importante que es la tecnología en la actualidad.
@@ -27,8 +26,7 @@ Además, con la presencia de estas herramientas de apoyo e información podrás 
 Dentro de estos videos podrán desarrollarse un sinnúmero de temas relacionados a la información expuesta pero de manera breve, objetiva y entendible, dichos videos tratarán de generar un espacio capaz de hacer sentir al usuario o lector en un ambiente estable y de armonía informativa.
 
 # Contenido a encontrar
-
-#### Origen de la informática
+#### Origen de la informática 
 
 Dentro de este apartado informativo podremos encontrar puntos cualitativos los cuales nos ayuden a poder conocer e identificar la manera en la que la informática renace y se establece dentro de la actualidad ayudándo y generando un avance periódico de gran beneficio para la sociedad actual y el humano en general, todo esto, sintetizado y estructurado por medio de información relevante pero breve.
 
@@ -39,9 +37,10 @@ Dentro de este apartado informativo podremos encontrar puntos cualitativos los c
 Dentro del presente espacio podrás encontrar dicha información relacionada a qué es la informática en sus procesos, área de desarrollo y capacidad misma.
 Igualmente, podremos observar relación entre los temas, nuestro contexto y la importancia que esto tiene.
 
-En las ramas de la ciencia, hay una que se encarga de estudiar la administración de métodos, técnicas y procesos con el fin de almacenar, procesar y transmitir información y datos en forma digital. Además, dicho término ha sido utilizado y modelado a lo largo de los años para referirse específicamente al crecimiento y evolución exponencial de una sociedad relacionada y adaptada al cambio, es decir, es igualmente como punto y rama de conocimiento orientada a un ambiente y contexto electrónico estable, ya que se define como la ciencia estructurada y vinculada al desarrollo computacional lo cual es llamada como informática.
+En las ramas de la ciencia,  hay una que se encarga de estudiar la administración de métodos, técnicas y procesos con el fin de almacenar, procesar y transmitir información y datos en forma digital. Además, dicho término ha sido utilizado y modelado a lo largo de los años para referirse específicamente al crecimiento y evolución exponencial de una sociedad relacionada y adaptada al cambio, es decir, es igualmente como punto y rama de conocimiento orientada a un ambiente y contexto electrónico estable, ya que se define como la ciencia estructurada y vinculada al desarrollo computacional lo cual es llamada como informática.
 
 ![Informática](https://swall.teahub.io/photos/small/209-2091137_anime-circuit-board.jpg)
+
 
 #### ¿Cuál es la relevancia de la informática?
 
@@ -52,10 +51,9 @@ La informática diseña y desarrolla gran cantidad de aplicaciones y softwares q
 Sin embargo, en la actualidad, esta no solo facilita la comunicación entre las personas, sino que también permite la relación de un sinfín de tareas, entre ellas, proveer de información a través de sitios web, blogs, entre otros; la informática está presente también en la aeronáutica, en el sistema bancario, en la actividad agrícola, en la navegación y en el transporte urbano, en la vigilancia y la seguridad de los individuos, en la industria y en el empresarial.
 
 ![Relevancia](https://www.cloudmasters.es/wp-content/uploads/2021/10/seguridad.jpeg)
-
 #### El primer acercamiento del hombre con la tecnología
 
-En este apartado el lector podrá encontrarse con diversos apartados ordenados de forma cronologica acerca de la evolución de la informática a traves de los años, hasta llegar a lo que conocemos hoy por hoy; comenzando por la edad antigua en los años 3,000 a.C hasta el año 500 d.C. hasta llegar a la era post-industrial, en el cual se incluyen los siglos XX y XXI.
+En este apartado el lector podrá encontrarse con diversos apartados ordenados de forma cronologica acerca de la evolución de la informática a traves de los años, hasta llegar a lo que conocemos hoy por hoy; comenzando por la edad antigua en los años 3,000 a.C hasta el año 500 d.C. hasta llegar a la era post-industrial, en el cual se incluyen los siglos XX y XXI. 
 <br>
 ![Evolucion](https://sobrehistoria.com//wp-content/uploads/2011/09/edad-media.jpg)
 
@@ -73,15 +71,19 @@ En 1956 nace el término inteligencia artificial gracias al informático John Mc
 
 los tres científicos generaron un a hipótesis, la cual estipulaba que en unos años la tecnología y a la IA conviviría más con los humanos, a tal punto de ser algo indispensable, pero no fue así, el desarrollo que este proyecto tardó mucho más tiempo del que ellos esperaban.
 Este proyecto ambicioso se logró impulsar hasta la década de los 90, en donde ya estaba precedida por otros inventos, fue conocida como la época de oro para la IA,
-teniendo varios inventos que hicieron posible la creación de motores de inteligencia artificial.
+teniendo varios inventos que hicieron posible la creación de motores de inteligencia artificial. 
 
 ![InteligenciaArtificial](https://blog.caixabank.es/blogcaixabank/wp-content/uploads/sites/4/2021/07/libro-ia-2-mini-783x412.jpg)
 
 #### Predicciones
 
-Cada pensamiento es un mundo distinto, por lo cual, cada uno de los integrantes del grupo da a conocer las perspectivas que tiene acerca de la tecnología en tiempos futuros estructurandose en diferentes puntos de vista y temas de abordamiento.
+Cada pensamiento es un mundo distinto, por lo cual, cada uno de los integrantes del grupo da a conocer las perspectivas que tiene acerca de la tecnología en tiempos futuros estructurandose en diferentes puntos de vista y temas de abordamiento. 
 
-![Pensamiento](<https://d1kw0nx8pk9xzh.cloudfront.net/0001/2c808822/resize-crop(w=1200;h=627):sharpen(level=0):output(format=jpeg)/up/dt/2019/05/Pensamiento-critico.jpg>)
+![Pensamiento](https://d1kw0nx8pk9xzh.cloudfront.net/0001/2c808822/resize-crop(w=1200;h=627):sharpen(level=0):output(format=jpeg)/up/dt/2019/05/Pensamiento-critico.jpg)
+
+# Espacio para verificación de información y desarrollo de lo expuesto
+https://docs.google.com/document/d/1THKR1VNAyyvPdaJrR8Wadx2ZaTvgSvPH4US9Zw1UbNY/edit
+https://docs.google.com/presentation/d/1ySp0iI4w7PKMaUoiQZNI6SiazneYGof-FwSy_pMYnrk/edit#slide=id.p
 
 # Datos Personales de los integrantes.
 
